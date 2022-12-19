@@ -1,5 +1,5 @@
 # sisvse-dataset
-This is a repository for the dataset introduced in the research, surgical scene segmentation, using semantic image synthesis with a virtual surgery environment@MICCAI 2022. The repository will include useful codes for the research.
+This is a repository for the dataset introduced in the research, surgical scene segmentation, using semantic image synthesis with a virtual surgery environment@MICCAI 2022. The repository will include helpful codes for the research.
 
 ## Paper
 - https://conferences.miccai.org/2022/papers/489-Paper2739.html
