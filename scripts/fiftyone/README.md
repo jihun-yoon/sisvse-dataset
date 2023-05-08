@@ -21,7 +21,7 @@
       11. instance-spade_manual_syn
       12. instance-spade_domain_random_syn
    2.  Semantic segmentation
-      1.  semantic-real_train_1
+      1. semantic-real_train_1
       2. semantic-real_train_2
       3. semantic-real_train_3
       4. semantic-real_val_1
